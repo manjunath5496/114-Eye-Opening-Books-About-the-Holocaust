@@ -151,7 +151,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(114).pdf" style="text-decoration:none;">Wrestling with God: Jewish Theological Responses during and after the Holocaust</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(24).pdf" style="text-decoration:none;">Rena's Promise: A Story of Sisters in Auschwitz</a></b></li>
 
 
 
