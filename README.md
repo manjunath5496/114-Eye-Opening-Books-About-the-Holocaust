@@ -4,20 +4,22 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(2).pdf" style="text-decoration:none;">Dissecting the Holocaust: The Growing Critique of 'Truth' and 'Memory'  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(3).pdf" style="text-decoration:none;">The First Holocaust: The Surprising Origin Of The Six Million Figure </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(4).pdf" style="text-decoration:none;">Modernite ve Holocaust</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(5).pdf" style="text-decoration:none;">Beneficial Microorganisms in Agriculture, Food and the Environment: Safety Assessment and Regulation</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(6).pdf" style="text-decoration:none;">Concepts and Applications in Agricultural Engineering </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(7).pdf" style="text-decoration:none;">Frontiers in Agricultural Research: Food, Health, Environment, and Communities</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(8).pdf" style="text-decoration:none;">Agroforestry: Enhancing Resiliency in U.S. Agricultural Landscapes Under Changing Conditions</a></b></li>      <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(9).pdf" style="text-decoration:none;">Mathematical Programming for Economic Analysis in Agriculture</a></b></li>                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(10).pdf" style="text-decoration:none;">Genetically Engineered Crops: Experiences and Prospects</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(11).pdf" style="text-decoration:none;">Organic Farming, Prototype for Sustainable Agricultures</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(12).pdf" style="text-decoration:none;">Accelerating precision agriculture to decision agriculture</a></b></li>
-        <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(13).pdf" style="text-decoration:none;">Principles of agricultural economics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(5).pdf" style="text-decoration:none;">The Experience of Being a Hidden Child Survivor of the Holocaust</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(6).pdf" style="text-decoration:none;">Shelter from the Holocaust: Rethinking Jewish Survival in the Soviet Union</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(7).pdf" style="text-decoration:none;">Resistance during the Holocaust </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(8).pdf" style="text-decoration:none;">After the Holocaust: The Book of Job, Primo Levi, and the Path to Affliction</a></b></li>      
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(9).pdf" style="text-decoration:none;">All Or Nothing: The Axis and the Holocaust, 1941-1943</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(10).pdf" style="text-decoration:none;">An Eye for an Eye: The Story of Jews Who Sought Revenge for the Holocaust</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(11).pdf" style="text-decoration:none;">Anne Frank and After: Dutch Holocaust Literature in Historical Perspective</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(12).pdf" style="text-decoration:none;">Auschwitz & The Holocaust: The Shocking Stories of Commandant & Leaders of the Holocaust & Auschwitz</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(13).pdf" style="text-decoration:none;">The Holocaust: Origins, Implementation, Aftermath</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(14).pdf" style="text-decoration:none;">Principles of Agronomy and Agricultural Meteorology   </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(15).pdf" style="text-decoration:none;">Sustainable Agriculture and Food </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(16).pdf" style="text-decoration:none;">Urban agriculture: Carving a Space for Agriculture in an Urbanized World</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(14).pdf" style="text-decoration:none;">Beyond Theodicy: Jewish and Christian Continental Thinkers Respond to the Holocaust  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(15).pdf" style="text-decoration:none;">Black Earth: The Holocaust as History and Warning </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(16).pdf" style="text-decoration:none;">Bungled: "Denying the Holocaust": How Deborah Lipstadt. Botched Her Attempt to Demonstrate the Growing Assault on Truth and Memory</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(17).pdf" style="text-decoration:none;">Agricultural Biotechnology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(17).pdf" style="text-decoration:none;">Bystanders to the Holocaust</a></b></li>
 
                               
  
