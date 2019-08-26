@@ -1,9 +1,9 @@
 
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(1).pdf" style="text-decoration:none;">Agriculture: C.E.C. Programme On Integrated And Biological Control</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(2).pdf" style="text-decoration:none;">Agricultural Wastes </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(3).pdf" style="text-decoration:none;">Agriculturally Important Microbes for Sustainable Agriculture </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(4).pdf" style="text-decoration:none;">Basic Agriculture: Student Handbook</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(1).pdf" style="text-decoration:none;">The Holocaust and Its Religious Impact: A Critical Assessment and Annotated Bibliography</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(2).pdf" style="text-decoration:none;">Dissecting the Holocaust: The Growing Critique of 'Truth' and 'Memory'  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(3).pdf" style="text-decoration:none;">The First Holocaust: The Surprising Origin Of The Six Million Figure </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(4).pdf" style="text-decoration:none;">Modernite ve Holocaust</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(5).pdf" style="text-decoration:none;">Beneficial Microorganisms in Agriculture, Food and the Environment: Safety Assessment and Regulation</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(6).pdf" style="text-decoration:none;">Concepts and Applications in Agricultural Engineering </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(7).pdf" style="text-decoration:none;">Frontiers in Agricultural Research: Food, Health, Environment, and Communities</a></b></li>
