@@ -97,30 +97,30 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(75).pdf" style="text-decoration:none;">Sasha Pechersky: Holocaust Hero, Sobibor Resistance Leader, and Hostage of History</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(76).pdf" style="text-decoration:none;">Sexual Violence against Jewish Women during the Holocaust</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(77).pdf" style="text-decoration:none;">Shelter from the Holocaust: Rethinking Jewish Survival in the Soviet Union</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(32).pdf" style="text-decoration:none;">Germany's War and the Holocaust</a></b></li>      
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(78).pdf" style="text-decoration:none;">Memoirs of Holocaust survivors</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(33).pdf" style="text-decoration:none;">Golden Harvest: Events at the Periphery of the Holocaust</a></b></li> 
- 
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(79).pdf" style="text-decoration:none;">Thanks for My Journey: A Holocaust Survivor's Story of Living Fearlessly</a></b></li> 
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(34).pdf" style="text-decoration:none;">The First Holocaust: Jewish Fund Raising Campaigns With Holocaust Claims During And After World War One</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(35).pdf" style="text-decoration:none;">Hegemony and the Holocaust: State Power and Jewish Survival in Occupied Europe</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(36).pdf" style="text-decoration:none;">Historical Dictionary of the Holocaust</a></b></li>
-        <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(37).pdf" style="text-decoration:none;">Histories of the Holocaust</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(80).pdf" style="text-decoration:none;">The 23rd Psalm: A Holocaust Memoir</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(81).pdf" style="text-decoration:none;">The Archive Thief: The Man Who Salvaged French Jewish History in the Wake of the Holocaust </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(82).pdf" style="text-decoration:none;">The Emergence of Jewish Ghettos During the Holocaust</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(83).pdf" style="text-decoration:none;">The End of the Holocaust</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(38).pdf" style="text-decoration:none;">Hitler and the Nazi Darwinian Worldview: How the Nazi Eugenic Crusade for a Superior Race Caused the Greatest Holocaust in World History </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(39).pdf" style="text-decoration:none;">Hitler's Willing Executioners </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(40).pdf" style="text-decoration:none;">Holocaust and Memory: The Experience of the Holocaust and Its Consequences: An Investigation Based on Personal Narratives</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(84).pdf" style="text-decoration:none;">The Hands of War: A Tale of Endurance and Hope, from a Survivor of the Holocaust </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(85).pdf" style="text-decoration:none;">The Holocaust and Antisemitism: A Short History </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(86).pdf" style="text-decoration:none;">The Holocaust and Compensated Compliance in Italy, Fossoli di Carpi, 1942–1952</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(41).pdf" style="text-decoration:none;">Holocaust Angst</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(87).pdf" style="text-decoration:none;">The Holocaust and the Book: Destruction and Preservation</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(42).pdf" style="text-decoration:none;">Holocaust as Fiction: Bernhard Schlink's "Nazi" Novels and Their Films</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(43).pdf" style="text-decoration:none;">Holocaust Representations in History  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(44).pdf" style="text-decoration:none;">Holocaust Testimonies : The Ruins of Memory </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(45).pdf" style="text-decoration:none;">Holocaust, Genocide, and the Law</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(46).pdf" style="text-decoration:none;">Holocaust: The Nazi Persecution and Murder of the Jews </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(47).pdf" style="text-decoration:none;">The Holocaust and Genocide: The Betrayal of Humanity</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(88).pdf" style="text-decoration:none;">The Holocaust and the Nakba</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(89).pdf" style="text-decoration:none;">The Holocaust Averted  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(90).pdf" style="text-decoration:none;">The Holocaust Encyclopedia</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(91).pdf" style="text-decoration:none;">The Holocaust Industry: Reflections on the Exploitation of Jewish Suffering</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(92).pdf" style="text-decoration:none;">The Holocaust Memorial Museum: Sacred Secular Space </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(93).pdf" style="text-decoration:none;">The Holocaust: History and Memory</a></b></li>
 
 
 
