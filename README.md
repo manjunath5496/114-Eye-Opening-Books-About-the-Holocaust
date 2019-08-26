@@ -123,7 +123,23 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(93).pdf" style="text-decoration:none;">The Holocaust: History and Memory</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(94).pdf" style="text-decoration:none;">The Jews of Bohemia and Moravia: Facing the Holocaust</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(95).pdf" style="text-decoration:none;">The Last Eyewitnesses </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(96).pdf" style="text-decoration:none;">The Liberation of the Camps: The End of the Holocaust and Its Aftermath</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(97).pdf" style="text-decoration:none;">The Master Plan: Himmler's Scholars and the Holocaust</a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(98).pdf" style="text-decoration:none;">The Narrow Bridge: Beyond the Holocaust  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(99).pdf" style="text-decoration:none;">The Nazi Officer's Wife: How One Jewish Woman Survived the Holocaust </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(100).pdf" style="text-decoration:none;">The Nuremberg Medical Trial: The Holocaust and the Origin of the Nuremberg Medical Code</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(101).pdf" style="text-decoration:none;">The Origins of the Final Solution: The Evolution of Nazi Jewish Policy, September 1939-March 1942</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(102).pdf" style="text-decoration:none;">The Politics of Genocide: The Holocaust in Hungary</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(103).pdf" style="text-decoration:none;">The Rape of Nanking: The Forgotten Holocaust of World War II   </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(104).pdf" style="text-decoration:none;">The Routledge History of the Holocaust</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(105).pdf" style="text-decoration:none;">Life between Memory and Hope: The Survivors of the Holocaust in Occupied Germany</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(106).pdf" style="text-decoration:none;">The Victims of Slavery, Colonization and the Holocaust </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(107).pdf" style="text-decoration:none;">The Historiography of the Holocaust</a></b></li>
 
 
 
