@@ -90,13 +90,13 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(69).pdf" style="text-decoration:none;">Ordinary Jews: Choice and Survival During the Holocaust </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(70).pdf" style="text-decoration:none;">Post-Holocaust France and the Jews, 1945-1955</a></b></li>
                                                              
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(25).pdf" style="text-decoration:none;">Eichmann's Jews. The Jewish Administration of Holocaust Vienna 1938–1945</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(26).pdf" style="text-decoration:none;">The holocaust violence : how did the Nazis massacre millions of Jews, Gypsies and the disabled? What was the secred agreement between Nazism and radical Zionism? </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(27).pdf" style="text-decoration:none;">Execution by Hunger: The Hidden Holocaust </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(28).pdf" style="text-decoration:none;">Fathoming the Holocaust</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(29).pdf" style="text-decoration:none;">Fifty Key Thinkers on the Holocaust and Genocide</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(30).pdf" style="text-decoration:none;">Film and the Holocaust</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(31).pdf" style="text-decoration:none;">From Catastrophe to Power : Holocaust Survivors and the Emergence of Israel</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(71).pdf" style="text-decoration:none;">The Yiddish Historians and the Struggle for a Jewish History of the Holocaust</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(72).pdf" style="text-decoration:none;">Reporting the Holocaust in the British, Swedish and Finnish Press, 1945–50 </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(73).pdf" style="text-decoration:none;">Rescuing the Children: A Holocaust Memoir </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(74).pdf" style="text-decoration:none;">Roots of Hate: Anti-Semitism in Europe Before the Holocaust</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(75).pdf" style="text-decoration:none;">Sasha Pechersky: Holocaust Hero, Sobibor Resistance Leader, and Hostage of History</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(76).pdf" style="text-decoration:none;">Sexual Violence against Jewish Women during the Holocaust</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(77).pdf" style="text-decoration:none;">Shelter from the Holocaust: Rethinking Jewish Survival in the Soviet Union</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(32).pdf" style="text-decoration:none;">Germany's War and the Holocaust</a></b></li>      
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(33).pdf" style="text-decoration:none;">Golden Harvest: Events at the Periphery of the Holocaust</a></b></li> 
