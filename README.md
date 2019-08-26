@@ -77,18 +77,18 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(59).pdf" style="text-decoration:none;">Nazi Empire-Building and the Holocaust in Ukraine</a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(60).pdf" style="text-decoration:none;">Lying About Hitler: History, Holocaust, and the David Irving Trial</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(14).pdf" style="text-decoration:none;">Beyond Theodicy: Jewish and Christian Continental Thinkers Respond to the Holocaust  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(15).pdf" style="text-decoration:none;">Black Earth: The Holocaust as History and Warning </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(16).pdf" style="text-decoration:none;">Bungled: "Denying the Holocaust": How Deborah Lipstadt. Botched Her Attempt to Demonstrate the Growing Assault on Truth and Memory</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(61).pdf" style="text-decoration:none;">Marching into Darkness: The Wehrmacht and the Holocaust in Belarus  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(62).pdf" style="text-decoration:none;">Masquerade: Treason, the Holocaust, and an Irish Impostor </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(63).pdf" style="text-decoration:none;">Masters of Death: The SS-Einsatzgruppen and the Invention of the Holocaust</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(17).pdf" style="text-decoration:none;">Bystanders to the Holocaust</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(64).pdf" style="text-decoration:none;">Missing Pieces: My Life as a Child Survivor of the Holocaust</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(18).pdf" style="text-decoration:none;">Chelmno and the Holocaust</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(19).pdf" style="text-decoration:none;">Children during the Holocaust  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(20).pdf" style="text-decoration:none;">Collected Memories: Holocaust History and Postwar Testimony </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(21).pdf" style="text-decoration:none;">Complicity in the Holocaust </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(22).pdf" style="text-decoration:none;">Denying History: Who Says the Holocaust Never Happened and Why Do They Say It? </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(23).pdf" style="text-decoration:none;">Digging through History: Archaeology and Religion from Atlantis to the Holocaust</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(65).pdf" style="text-decoration:none;">Murder in Our Midst: The Holocaust, Industrial Killing, and Representation</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(66).pdf" style="text-decoration:none;">Music in the Holocaust: Confronting Life in the Nazi Ghettos and Camps  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(67).pdf" style="text-decoration:none;">The Nanking Massacre and Other Japanese Military Atrocities, The Asia-Pacific War </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(68).pdf" style="text-decoration:none;">Narrating the Holocaust </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(69).pdf" style="text-decoration:none;">Ordinary Jews: Choice and Survival During the Holocaust </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(70).pdf" style="text-decoration:none;">Post-Holocaust France and the Jews, 1945-1955</a></b></li>
                                                              
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(25).pdf" style="text-decoration:none;">Eichmann's Jews. The Jewish Administration of Holocaust Vienna 1938–1945</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(26).pdf" style="text-decoration:none;">The holocaust violence : how did the Nazis massacre millions of Jews, Gypsies and the disabled? What was the secred agreement between Nazism and radical Zionism? </a></b></li>
