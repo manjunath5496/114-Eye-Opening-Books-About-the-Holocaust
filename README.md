@@ -21,7 +21,13 @@
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(17).pdf" style="text-decoration:none;">Bystanders to the Holocaust</a></b></li>
 
-                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(18).pdf" style="text-decoration:none;">Chelmno and the Holocaust</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(19).pdf" style="text-decoration:none;">Children during the Holocaust  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(20).pdf" style="text-decoration:none;">Collected Memories: Holocaust History and Postwar Testimony </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(21).pdf" style="text-decoration:none;">Complicity in the Holocaust </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(22).pdf" style="text-decoration:none;">Denying History: Who Says the Holocaust Never Happened and Why Do They Say It? </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/agr(23).pdf" style="text-decoration:none;">Digging through History: Archaeology and Religion from Atlantis to the Holocaust</a></b></li>
+                                                             
  
  
  </ul>
