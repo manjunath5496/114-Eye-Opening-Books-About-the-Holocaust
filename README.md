@@ -1,3 +1,60 @@
+<table class="infobox vevent" style="width: 1042px;">
+<tbody>
+<tr>
+<td style="width: 1026px;" colspan="2">Part of&nbsp;<a title="World War II" href="https://en.wikipedia.org/wiki/World_War_II">World War II</a></td>
+</tr>
+<tr>
+<td style="width: 1026px;" colspan="2"><a class="image" href="Birkenau,_1944.jpg"><img src="Birkenau,_1944.jpg" srcset="Birkenau,_1944.jpg" width="300" height="201" data-file-width="4205" data-file-height="2814" /></a>
+<div>From the&nbsp;<a title="Auschwitz Album" href="https://en.wikipedia.org/wiki/Auschwitz_Album">Auschwitz Album</a>:&nbsp;<a class="mw-redirect" title="Hungarian Jews" href="https://en.wikipedia.org/wiki/Hungarian_Jews">Hungarian Jews</a>&nbsp;arriving at&nbsp;<a title="Auschwitz concentration camp" href="https://en.wikipedia.org/wiki/Auschwitz_concentration_camp#Auschwitz_II-Birkenau">Auschwitz II</a>&nbsp;in&nbsp;<a title="Occupation of Poland (1939&ndash;1945)" href="https://en.wikipedia.org/wiki/Occupation_of_Poland_(1939%E2%80%931945)">German-occupied Poland</a>, May 1944. Most were "selected" to go to the&nbsp;<a class="mw-redirect" title="Nazi gas chambers" href="https://en.wikipedia.org/wiki/Nazi_gas_chambers">gas chambers</a>. Camp prisoners are visible in their striped uniforms.</div>
+</td>
+</tr>
+<tr>
+<th style="width: 150px;" scope="row">Location</th>
+<td class="location" style="width: 876px;"><a title="Nazi Germany" href="https://en.wikipedia.org/wiki/Nazi_Germany">Nazi Germany</a>&nbsp;and&nbsp;<a title="German-occupied Europe" href="https://en.wikipedia.org/wiki/German-occupied_Europe">German-occupied Europe</a></td>
+</tr>
+<tr>
+<th style="width: 150px;" scope="row">Description</th>
+<td style="width: 876px;">Genocide of the European Jews</td>
+</tr>
+<tr>
+<th style="width: 150px;" scope="row">Date</th>
+<td style="width: 876px;">1941&ndash;1945</td>
+</tr>
+<tr>
+<th style="width: 150px;" scope="row">
+<div>Attack type</div>
+</th>
+<td style="width: 876px;"><a title="Genocide" href="https://en.wikipedia.org/wiki/Genocide">Genocide</a>,&nbsp;<a title="Ethnic cleansing" href="https://en.wikipedia.org/wiki/Ethnic_cleansing">ethnic cleansing</a></td>
+</tr>
+<tr>
+<th style="width: 150px;" scope="row">Deaths</th>
+<td style="width: 876px;">
+<div class="plainlist">
+<ul>
+<li>Around 6 million&nbsp;<a class="mw-redirect" title="Jew" href="https://en.wikipedia.org/wiki/Jew">Jews</a></li>
+<li>Other victims of Nazi persecution during the&nbsp;<a href="https://en.wikipedia.org/wiki/The_Holocaust#Holocaust_era">Holocaust era</a>: 11 million</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="width: 150px;" scope="row">Perpetrators</th>
+<td style="width: 876px;">Nazi Germany and&nbsp;<a href="https://en.wikipedia.org/wiki/The_Holocaust#Collaboration">its collaborators</a><br /><a title="List of major perpetrators of the Holocaust" href="https://en.wikipedia.org/wiki/List_of_major_perpetrators_of_the_Holocaust">List of major perpetrators of the Holocaust</a></td>
+</tr>
+<tr>
+<th style="width: 150px;" scope="row">Motive</th>
+<td style="width: 876px;"><a title="Antisemitism" href="https://en.wikipedia.org/wiki/Antisemitism">Antisemitism</a>,&nbsp;<a title="Racism" href="https://en.wikipedia.org/wiki/Racism">Racism</a></td>
+</tr>
+<tr>
+<th style="width: 150px;" scope="row">Trials</th>
+<td style="width: 876px;"><a title="Nuremberg trials" href="https://en.wikipedia.org/wiki/Nuremberg_trials">Nuremberg trials</a>,&nbsp;<a title="Subsequent Nuremberg trials" href="https://en.wikipedia.org/wiki/Subsequent_Nuremberg_trials">Subsequent Nuremberg trials</a>,&nbsp;<a class="mw-redirect" title="Trial of Adolf Eichmann" href="https://en.wikipedia.org/wiki/Trial_of_Adolf_Eichmann">Trial of Adolf Eichmann</a>, and&nbsp;<a title="The Holocaust" href="https://en.wikipedia.org/wiki/The_Holocaust#Trials">others</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 <p><strong>The Holocaust</strong>, also known as&nbsp;<strong>the Shoah</strong>,&nbsp;was a&nbsp;<a title="Genocide" href="https://en.wikipedia.org/wiki/Genocide">genocide</a>&nbsp;of the&nbsp;<a title="History of the Jews in Europe" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_Europe">European Jews</a>&nbsp;during&nbsp;<a title="World War II" href="https://en.wikipedia.org/wiki/World_War_II">World War II</a>. Between 1941 and 1945, across&nbsp;<a title="German-occupied Europe" href="https://en.wikipedia.org/wiki/German-occupied_Europe">German-occupied Europe</a>,&nbsp;<a title="Nazi Germany" href="https://en.wikipedia.org/wiki/Nazi_Germany">Nazi Germany</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/The_Holocaust#Collaboration">its collaborators</a>&nbsp;systematically murdered some six million&nbsp;<a class="mw-redirect" title="Jew" href="https://en.wikipedia.org/wiki/Jew">Jews</a>, around two-thirds of Europe's Jewish population.&nbsp;The murders were carried out in&nbsp;<a title="Pogrom" href="https://en.wikipedia.org/wiki/Pogrom">pogroms</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/The_Holocaust#Mass_shootings">mass shootings</a>; by a policy of&nbsp;<a class="mw-redirect" title="Extermination through work" href="https://en.wikipedia.org/wiki/Extermination_through_work">extermination through work</a>&nbsp;in&nbsp;<a title="Nazi concentration camps" href="https://en.wikipedia.org/wiki/Nazi_concentration_camps">concentration camps</a>; and in&nbsp;<a class="mw-redirect" title="Nazi gas chambers" href="https://en.wikipedia.org/wiki/Nazi_gas_chambers">gas chambers</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Nazi gas van" href="https://en.wikipedia.org/wiki/Nazi_gas_van">gas vans</a>&nbsp;in German&nbsp;<a href="https://en.wikipedia.org/wiki/The_Holocaust#Extermination_camps">extermination camps</a>, chiefly&nbsp;<a title="Auschwitz concentration camp" href="https://en.wikipedia.org/wiki/Auschwitz_concentration_camp">Auschwitz</a>,&nbsp;<a title="Belzec extermination camp" href="https://en.wikipedia.org/wiki/Belzec_extermination_camp">Bełżec</a>,&nbsp;<a title="Chełmno extermination camp" href="https://en.wikipedia.org/wiki/Che%C5%82mno_extermination_camp">Chełmno</a>,&nbsp;<a title="Majdanek concentration camp" href="https://en.wikipedia.org/wiki/Majdanek_concentration_camp">Majdanek</a>,&nbsp;<a title="Sobibor extermination camp" href="https://en.wikipedia.org/wiki/Sobibor_extermination_camp">Sobib&oacute;r</a>, and&nbsp;<a title="Treblinka extermination camp" href="https://en.wikipedia.org/wiki/Treblinka_extermination_camp">Treblinka</a>&nbsp;in&nbsp;<a title="Occupation of Poland (1939&ndash;1945)" href="https://en.wikipedia.org/wiki/Occupation_of_Poland_(1939%E2%80%931945)">occupied Poland</a>.</p>
 <p>Germany implemented the persecution in stages. Following&nbsp;<a title="Adolf Hitler" href="https://en.wikipedia.org/wiki/Adolf_Hitler">Adolf Hitler</a>'s&nbsp;<a title="Chancellor of Germany" href="https://en.wikipedia.org/wiki/Chancellor_of_Germany#Chancellor_of_Nazi_Germany_(1933%E2%80%931945)">appointment as Chancellor</a>&nbsp;on 30 January 1933, the regime built a network of concentration camps in Germany for political opponents and those deemed "undesirable", starting with&nbsp;<a title="Dachau concentration camp" href="https://en.wikipedia.org/wiki/Dachau_concentration_camp">Dachau</a>&nbsp;on 22 March 1933.&nbsp;After the passing of the&nbsp;<a title="Enabling Act of 1933" href="https://en.wikipedia.org/wiki/Enabling_Act_of_1933">Enabling Act</a>&nbsp;on 24 March,&nbsp;which gave Hitler&nbsp;<a title="Plenary power" href="https://en.wikipedia.org/wiki/Plenary_power">plenary powers</a>, the government began isolating Jews from civil society; this included&nbsp;<a title="Nazi boycott of Jewish businesses" href="https://en.wikipedia.org/wiki/Nazi_boycott_of_Jewish_businesses">boycotting Jewish businesses</a>&nbsp;in April 1933 and enacting the&nbsp;<a title="Nuremberg Laws" href="https://en.wikipedia.org/wiki/Nuremberg_Laws">Nuremberg Laws</a>&nbsp;in September 1935. On 9&ndash;10 November 1938, eight months after Germany&nbsp;<a title="Anschluss" href="https://en.wikipedia.org/wiki/Anschluss">annexed Austria</a>, Jewish businesses and other buildings were ransacked, smashed or set on fire throughout Germany and Austria during what became known as&nbsp;<em><a title="Kristallnacht" href="https://en.wikipedia.org/wiki/Kristallnacht">Kristallnacht</a></em>&nbsp;(the "Night of Broken Glass"). After Germany&nbsp;<a title="Invasion of Poland" href="https://en.wikipedia.org/wiki/Invasion_of_Poland">invaded Poland</a>&nbsp;in September 1939, triggering World War II, the regime set up&nbsp;<a title="Nazi ghettos" href="https://en.wikipedia.org/wiki/Nazi_ghettos">ghettos</a>&nbsp;to&nbsp;<a title="Racial segregation" href="https://en.wikipedia.org/wiki/Racial_segregation">segregate</a>&nbsp;Jews from the rest of the population. Eventually thousands of camps and other detention sites were established across German-occupied Europe.</p>
 <p>The segregation of Jews in ghettos culminated in the policy of extermination the Nazis called the "<a title="Final Solution" href="https://en.wikipedia.org/wiki/Final_Solution">Final Solution to the Jewish Question</a>", discussed by senior Nazi officials at the&nbsp;<a title="Wannsee Conference" href="https://en.wikipedia.org/wiki/Wannsee_Conference">Wannsee Conference</a>&nbsp;in Berlin in January 1942. As German forces&nbsp;<a title="Operation Barbarossa" href="https://en.wikipedia.org/wiki/Operation_Barbarossa">captured territories in the East</a>, all anti-Jewish measures were radicalized. Under the coordination of the&nbsp;<a title="Schutzstaffel" href="https://en.wikipedia.org/wiki/Schutzstaffel">SS</a>, with directions from the highest leadership of the&nbsp;<a title="Nazi Party" href="https://en.wikipedia.org/wiki/Nazi_Party">Nazi Party</a>, killings were committed within Germany itself, throughout occupied Europe, and within territories controlled by&nbsp;<a title="Axis powers" href="https://en.wikipedia.org/wiki/Axis_powers">Germany's allies</a>. Paramilitary&nbsp;<a class="mw-redirect" title="Death squads" href="https://en.wikipedia.org/wiki/Death_squads">death squads</a>&nbsp;called&nbsp;<a title="Einsatzgruppen" href="https://en.wikipedia.org/wiki/Einsatzgruppen">Einsatzgruppen</a>, in cooperation with the&nbsp;<a title="German Army (1935&ndash;1945)" href="https://en.wikipedia.org/wiki/German_Army_(1935%E2%80%931945)">German Army</a>&nbsp;and local collaborators, murdered around 1.3&nbsp;million Jews in mass shootings and pogroms between 1941 and 1945. By mid-1942, victims were being deported from ghettos across Europe in sealed&nbsp;<a title="Holocaust trains" href="https://en.wikipedia.org/wiki/Holocaust_trains">freight trains</a>&nbsp;to extermination camps where, if they survived the journey, they were worked to death or gassed. The killing continued until the&nbsp;<a title="End of World War II in Europe" href="https://en.wikipedia.org/wiki/End_of_World_War_II_in_Europe">end of World War II in Europe</a>&nbsp;in May 1945.</p>
